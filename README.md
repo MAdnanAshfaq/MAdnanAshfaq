@@ -66,5 +66,3 @@
 > *(Only if you're using Wakatime. You can link your stats.)*
 
 ```md
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
