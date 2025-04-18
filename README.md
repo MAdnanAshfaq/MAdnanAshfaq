@@ -16,11 +16,34 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Crafting+Efficient+Web+Experiences;Turning+Ideas+into+Reality;Exploring+Code+Beyond+Limits;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 
-  <br/>
-
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
-
-  <br/>
+ <!-- GitHub Custom Contribution Animation -->
+<p align="center">
+  <svg viewBox="0 0 800 200" width="100%" height="200">
+    <defs>
+      <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" style="stop-color:#00f260;stop-opacity:1" />
+        <stop offset="100%" style="stop-color:#0575E6;stop-opacity:1" />
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" fill="url(#gradient)" font-size="36" font-family="Fira Code" dy=".3em">
+      ▓▓▓▓▓▓ Loading Contributions ▓▓▓▓▓▓
+    </text>
+    <g>
+      <circle cx="50" cy="100" r="4" fill="#00ff88">
+        <animate attributeName="cy" values="100;150;100" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="100" cy="100" r="4" fill="#00ff88">
+        <animate attributeName="cy" values="100;150;100" dur="2.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="150" cy="100" r="4" fill="#00ff88">
+        <animate attributeName="cy" values="100;150;100" dur="1.8s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="200" cy="100" r="4" fill="#00ff88">
+        <animate attributeName="cy" values="100;150;100" dur="2.2s" repeatCount="indefinite" />
+      </circle>
+    </g>
+  </svg>
+</p>
 
   <img src="https://github.com/kyechan99/catTyping/blob/main/samples/nyan-cat.gif?raw=true" width="150px" alt="Animated laptop" />
 
