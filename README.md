@@ -39,7 +39,7 @@
 - 🌱 Learning Next.js, TypeScript, and CI/CD
 - 👯 Collaborating on full-stack & open-source projects
 - 💬 Hit me up for React, Node, Firebase, Tailwind, MongoDB
-- 📫 Email me: [madnanashfaq@gmail.com](mailto:madnanashfaq@gmail.com)
+- 📫 Email me: [adnanchy083@gmail.com](mailto:adnanchy083@gmail.com)
 - 🧠 Fun fact: I refactor in my dreams sometimes 😴
 
 ---
@@ -49,7 +49,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/madnanashfaq" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/madnanashfaq" target="_blank"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:madnanashfaq@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:adnanchy083@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
