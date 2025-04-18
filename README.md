@@ -1,13 +1,38 @@
-<h1 align="center">Hey there, I'm Adnan 👋</h1>
-<h3 align="center">🚀 Full Stack Developer | Open Source Enthusiast | Tech Explorer 🌌</h3>
+<!-- Profile Intro Section -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Adnan;A+Passionate+Software+Engineer;Full-Stack+Web+Developer;Open+Source+Lover;Let's+build+something+awesome!" alt="Typing SVG" />
-</p>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="waving hand" />
+  
+  <h1 style="font-size:3rem; font-weight:bold; background: linear-gradient(to right, #30CFD0 0%, #330867 100%);
+             -webkit-background-clip: text; color: transparent;">
+    Hey there, I'm Adnan 👨‍💻
+  </h1>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+  <h3 style="font-size: 1.5rem; font-weight: 500;">
+    🚀 Full Stack Developer | 🛠️ Open Source Enthusiast | 🌌 Tech Explorer
+  </h3>
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Crafting+Efficient+Web+Experiences;Turning+Ideas+into+Reality;Exploring+Code+Beyond+Limits;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
+
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+  <br/>
+
+  <img src="https://github.com/kyechan99/catTyping/blob/main/samples/nyan-cat.gif?raw=true" width="150px" alt="Animated laptop" />
+
+  <br/><br/>
+
+  <a href="#connect">
+    <img src="https://img.shields.io/badge/Let%27s%20Connect!-blueviolet?style=for-the-badge&logo=Handshake&logoColor=white" />
+  </a>
+
+</div>
+
+<hr/>
 
 ---
 
