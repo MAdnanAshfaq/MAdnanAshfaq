@@ -1,4 +1,3 @@
-<!-- Profile Intro Section -->
 <div align="center">
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" alt="waving hand" />
@@ -16,12 +15,11 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Crafting+Efficient+Web+Experiences;Turning+Ideas+into+Reality;Exploring+Code+Beyond+Limits;Let%E2%80%99s+Build+Something+Awesome+Together!" alt="Typing SVG" />
 
- <!-- GitHub Custom Contribution Animation -->
-<p align="center">
-  <a href="https://gitstar-ranking.com/user/MAdnanAshfaq">
-    <img src="https://github-contribution-grid.glitch.me/globe?user=MAdnanAshfaq&color=00ffcc" alt="3D Contribution Globe" />
-  </a>
-</p>
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+
+  <br/>
 
   <img src="https://github.com/kyechan99/catTyping/blob/main/samples/nyan-cat.gif?raw=true" width="150px" alt="Animated laptop" />
 
@@ -33,9 +31,7 @@
 
 </div>
 
-<hr/>
-
----
+<hr/>---
 
 ### 🧠 Who am I?
 
